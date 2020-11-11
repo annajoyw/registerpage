@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(39, 39, 54);
+    margin: 0;
+}
+.navbar {
+    background-color: aliceblue;
+    padding: 15px;
+    text-align: right;
+}
+.nav-link{
+    background-color: blue;
+    color: cornsilk;
+    padding: .5em;
+    border-radius: 10px;
+}
+.positioning h1{
+    text-align: center;
+    font-weight: 200;
+    position: fixed;
+}
+form {
+text-align: center;
+}
+
+}
+button{
+    border-style: inset;
+}
+.form-one{
+    text-align: center
+    width: 200px;
+    height: 200px;
+    border-style: inset;
+    border-width: 7px;
+    margin: 50px 50px 50px 50px;
+}
